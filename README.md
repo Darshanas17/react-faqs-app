@@ -1,102 +1,54 @@
-# 📚 Faqs App
-
-An interactive and responsive **FAQs Application** built with React. This project allows users to toggle FAQ answers smoothly with an engaging UI.
-
----
+# ❓ React FAQs App
 
 ## 🚀 Live Demo
+[Click here to view the demo](https://Darshanas17.github.io/react-faqs-app/)
 
-🔗 [Click here to view the live demo](#) _(Update with actual deployment link)_
 
----
+## 📌 Overview
+The **React FAQs App** is a simple yet interactive React application designed to display a list of frequently asked questions (FAQs). Users can click to expand and view the answers to the questions, making it easier to find helpful information in a clean and organized interface.
 
-## 🛠 Setup & Installation
+## ✨ Features
+- **Interactive FAQs:** Click to reveal answers to frequently asked questions.
+- **Smooth Transitions:** Enjoy smooth animations when expanding and collapsing answers.
+- **Search Functionality:** Quickly search for specific questions.
+- **Responsive Design:** Optimized for all screen sizes, making it perfect for both desktop and mobile.
 
-Clone the repository and install dependencies:
+## 🛠️ Tech Stack
+- **React.js** – Frontend UI
+- **CSS** – Styling and animations
 
-```bash
-# Clone the repo
-git clone https://github.com/your-username/faqs-app.git
+## ⚙️ Installation & Setup
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Darshanas17/react-faqs-app.git
+   cd react-faqs-app
+   ```
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+3. **Run the Application**
+   ```bash
+   npm start
+   ```
+4. Open the browser and visit `http://localhost:3000/` to see the app in action.
 
-# Navigate to project folder
-cd faqs-app
+## 🧩 Components Structure
+- **Faqs** – The main container for the FAQ questions and answers.
+- **FaqItem** – Individual FAQ item that contains the question and answer.
 
-# Install dependencies
-npm install
+## 🎨 Design & Assets
+- **Font:** **Roboto**
+- **Colors:**
+  - `#f0f4f8` (Background)
+  - `#212529` (Text)
+  - `#6c757d` (Muted Text)
+  - `#007bff` (Accent)
 
-# Run the app
-npm start
-```
-
----
-
-## ⚡ Features
-
-✅ Click to expand and collapse FAQ answers.
-✅ Interactive UI with smooth animations.
-✅ Fully responsive design.
-✅ Efficient state management using React.
-
----
-
-## 📂 Project Files
-
-| File                               | Description                       |
-| ---------------------------------- | --------------------------------- |
-| `src/components/Faqs/index.js`     | Main component rendering FAQs     |
-| `src/components/Faqs/index.css`    | Styles for the main component     |
-| `src/components/FaqItem/index.js`  | Component for individual FAQ item |
-| `src/components/FaqItem/index.css` | Styles for the FAQ item           |
-
----
-
-## 🎨 UI & Styling Guide
-
-### 🖼 Icons Used:
-
-- [Plus Icon](https://assets.ccbp.in/frontend/react-js/faqs-plus-icon-img.png) (alt: **plus**)
-- [Minus Icon](https://assets.ccbp.in/frontend/react-js/faqs-minus-icon-img.png) (alt: **minus**)
-
-### 🎨 Colors:
-
-| Element         | Hex Code  |
-| --------------- | --------- |
-| Primary Color   | `#cb8805` |
-| Secondary Color | `#52606d` |
-| Text Color      | `#9aa5b1` |
-| Borders         | `#d7dae6` |
-| Background      | `#f1f5f8` |
-
-### ✍️ Font Family:
-
-- **Roboto** (Default Font)
-
----
-
-## 📢 How It Works
-
-1️⃣ Click on the **plus icon** to reveal an answer.
-2️⃣ Click on the **minus icon** to hide the answer.
-3️⃣ Fully responsive for mobile and desktop.
-4️⃣ Smooth animations enhance user experience.
-
----
-
-## 💡 Best Practices Used
-
-- **Semantic HTML** for better accessibility.
-- **CSS Flexbox & Grid** for a clean, responsive layout.
-- **State Management** using React Component State.
-- **Smooth Animations** for a modern UI experience.
-
----
-
-## 🤝 Contributing
-
-Want to improve this project? Feel free to fork the repo, create a new branch, and submit a pull request! 🚀
-
----
+## 👨‍💻 Author
+**Darshan A S**  
+- [LinkedIn](https://www.linkedin.com/in/darshan-a-s/)  
+- [Portfolio](https://darshanas17.github.io/darshan-as-17-portfolio/)
 
 ## 📜 License
-
-This project is open-source and available under the **MIT License**.
+This project is licensed under the **MIT License**.`

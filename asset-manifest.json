@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-faqs-app/static/css/main.2d7742fb.css",
+    "main.js": "/react-faqs-app/static/js/main.29b4745f.js",
+    "static/js/453.64d6a266.chunk.js": "/react-faqs-app/static/js/453.64d6a266.chunk.js",
+    "index.html": "/react-faqs-app/index.html",
+    "main.2d7742fb.css.map": "/react-faqs-app/static/css/main.2d7742fb.css.map",
+    "main.29b4745f.js.map": "/react-faqs-app/static/js/main.29b4745f.js.map",
+    "453.64d6a266.chunk.js.map": "/react-faqs-app/static/js/453.64d6a266.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d7742fb.css",
+    "static/js/main.29b4745f.js"
+  ]
+}
